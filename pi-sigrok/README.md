@@ -64,6 +64,13 @@ Show me the UART decoder options
 - sigrok firmware files for your device (see the dslogic-sigrok skill)
 - A compatible logic analyzer (DreamSourceLab DSLogic, fx2lafw, etc.)
 
+### Troubleshooting
+
+If you get "Failed to open resource" firmware errors, see this detailed guide:
+
+[**DSLogic + sigrok-cli Firmware Setup Guide**](https://www.cnblogs.com/whyNotDIY/p/20541771)
+(Covers firmware extraction, renaming, and placement)
+
 ## Package Structure
 
 ```

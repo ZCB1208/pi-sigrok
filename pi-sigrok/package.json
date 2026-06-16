@@ -1,6 +1,6 @@
 {
   "name": "pi-sigrok",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Logic analyzer control and protocol decoding via sigrok-cli. Supports DreamSourceLab DSLogic and other sigrok-compatible devices.",
   "keywords": [
     "pi-package",
@@ -15,10 +15,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/pi-sigrok.git"
+    "url": "git+https://github.com/ZCB1208/pi-sigrok.git"
   },
   "pi": {
-    "extensions": ["./extensions"],
-    "skills": ["./skills"]
+    "extensions": [
+      "./extensions"
+    ],
+    "skills": [
+      "./skills"
+    ]
   }
 }

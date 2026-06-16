@@ -184,3 +184,9 @@ sigrok-cli -l 5 --driver=dreamsourcelab-dslogic --scan
 ```
 
 Log level 5 shows detailed firmware search paths and upload status.
+
+### Reference Blog
+
+For a complete walkthrough with screenshots, see:
+
+[解决 DSLogic 逻辑分析仪在 sigrok-cli 中报错 "Failed to open resource" 的问题](https://www.cnblogs.com/whyNotDIY/p/20541771)

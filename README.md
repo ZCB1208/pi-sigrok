@@ -91,6 +91,14 @@ pi-sigrok/
 - Firmware files for your logic analyzer (see the dslogic-sigrok skill or [sigrok Wiki](https://sigrok.org/wiki/DreamSourceLab_DSLogic))
 - Windows, Linux, or macOS (shell path may need configuration)
 
+### 📖 Blog (Troubleshooting Reference)
+
+If you encounter firmware issues ("Failed to open resource"), check out this detailed guide:
+
+[**解决 DSLogic 逻辑分析仪在 sigrok-cli 中报错 "Failed to open resource" 的问题**](https://www.cnblogs.com/whyNotDIY/p/20541771)
+
+Covers firmware extraction, renaming, placement, and common pitfalls.
+
 ---
 
 <a name="中文"></a>
@@ -166,6 +174,14 @@ pi-sigrok/
 - 逻辑分析仪的固件文件（参见 dslogic-sigrok 技能或 [sigrok Wiki](https://sigrok.org/wiki/DreamSourceLab_DSLogic)）
 - Windows、Linux 或 macOS（Windows 下可能需要配置 shell 路径）
 
+### 📖 博客（故障排查参考）
+
+如果遇到固件问题（"Failed to open resource" 报错），可以参考这篇详细教程：
+
+[**解决 DSLogic 逻辑分析仪在 sigrok-cli 中报错 "Failed to open resource" 的问题**](https://www.cnblogs.com/whyNotDIY/p/20541771)
+
+包含固件提取、重命名、放置路径和常见坑点。
+
 ---
 
 ### 📄 License
@@ -178,3 +194,4 @@ MIT
 - [sigrok](https://sigrok.org/)
 - [Pi Package Gallery](https://pi.dev/packages/pi-sigrok)
 - [npm Package](https://www.npmjs.com/package/pi-sigrok)
+- [Blog: DSLogic + sigrok-cli Troubleshooting](https://www.cnblogs.com/whyNotDIY/p/20541771)
